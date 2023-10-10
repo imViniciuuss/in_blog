@@ -1,4 +1,4 @@
-# 🎉 In_Blog
+# 🎉 Blog
 
 <p>Um simples blog com algumas notícias!</p>
 
